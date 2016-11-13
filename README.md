@@ -1,6 +1,6 @@
-# React Webpack Starter
+# React Sandbox
 
-A Webpack boilerplate for React projects.
+A place for fledgling React projects
 
 # Get started
 
