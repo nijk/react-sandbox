@@ -21,7 +21,8 @@
     "classnames": "^2.2.5",
     "lodash": "^4.15.0",
     "react": "^15.3.2",
-    "react-dom": "^15.3.2"
+    "react-dom": "^15.3.2",
+    "fullscreen": "file:../react-fullscreen"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.1",

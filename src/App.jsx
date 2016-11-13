@@ -4,6 +4,7 @@
 import React, { Component } from 'react';
 
 // Components
+import Fullscreen from 'react-fullscreen';
 
 class App extends Component {
   constructor (props) {
@@ -15,7 +16,9 @@ class App extends Component {
 
   render () {
     return (
-      <div className="wrapper">Your components here</div>
+      <div className="wrapper">
+        <Fullscreen contentEnter="Go fullscreen" contentExit="Exit fullscreen" target="body" />
+      </div>
     );
   }
 }
